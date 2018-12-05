@@ -87,6 +87,38 @@ transform: scale(.5) translateX(5px) translateY(5px);
 #acept{
 	width: 100%;
 	margin: auto;
-	padding: 0;
+	padding: 0;+
+
+	display: inline-block;
+
+}
+#acept,.uy{
+	display: inline-block;
 	
 }
+@media (max-width:600px){
+	.fondo h1,p,.titulo a{
+		font-size: 18px;
+
+	}
+	fieldset{
+		border: 2px solid coral;
+		font-size: 20px;
+	
+	}
+	.tit1,.tit2{
+		color: coral;
+		font-size: 20px;
+	}
+	.oli{
+	background:coral;
+	font-size: 20px;
+	margin-bottom: 2%;
+	width: 120px;
+		
+	}
+
+}
+
+
+

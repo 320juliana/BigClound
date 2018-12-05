@@ -74,7 +74,7 @@ body{
 .nom1{
 	margin: 0px 600px 10px 0px;
 }
-.nom1 .p,.e{
+.pa,.e{
     margin: 0px 240px 0px 0px;
     display: inline-block;
     font-size: 35px;
@@ -123,8 +123,31 @@ margin-right: -170px;
     width: 80%;
     
     }
-    @media (max-width:320px){
+    @media (max-width:411px){
      .caja{
          display: none;
      }
+     .e,.pa,.w{
+         font-size: 17px;
+         color: coral;
+       
+     }
+     table{
+         font-size: 12px;
+         font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+     }
+     .call a{
+         font-size: 15px;
+         padding: 5px 10px;
+         background: coral;
+         
+     }
+     .call{
+         margin: 0 50%;
+     }
+     .titulo{
+         font-size: 20px;
+         font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+     }
+
     }

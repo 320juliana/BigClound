@@ -140,7 +140,84 @@ p a{
     margin-bottom: 5%;
     margin: 100px auto;
 }
+.seccion img{
+    width: 40%;
+}
+@media (max-width:650px){
+    .conf{
+        top: 180px;
 
+    }
+    .background h1{
+        font-size: 30px;
+        margin-bottom: 5%;
+    }
+    .background p{
+        color: coral;
+        font-size: 20px;
+        margin-bottom: 4%;
+    }
+    .conf a{
+        font-size: 20px;
+        padding: 2%;
+    }
+    .fa-facebook-f{
+        background-color: blue;
+        color:white;
+        padding: 10px 15px;
+        border-radius: 100% ;
+        
+    
+    }
+    .fa-twitter{
+        color: white;
+        background-color: #1DA4FC;
+        border-radius: 50% 50%;
+        padding: 10px 8px;
+        
+        
+    }
+    .fa-pinterest-p{
+        color: white;
+        background-color: #F91244;
+        border-radius: 100%;
+        padding: 10px 9px;
+        
+    
+    }
+    .fa-google-plus-g{
+        color: white;
+        background-color: #FA450D;
+        border-radius: 100%;
+        padding: 10px 5px;
+    
+    
+    }
+    .fa-envelope{
+        color: white;
+        background-color: gray;
+        border-radius: 100%;
+        padding: 10px 8px;
+        
+    }
+    .background a{
+        width: 20%;
+        font-size: 15px;
+        background: coral;
+
+    }
+    footer{
+        font-size: 15px;
+        border-top: coral solid 6px;
+    }
+    article ul{
+      font-size: 20px;
+    }
+    .container a img{
+        width: 40px;
+    }
+
+}
 
 
 
