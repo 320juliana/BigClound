@@ -84,6 +84,9 @@ transform: scale(.5) translateX(5px) translateY(5px);
 	margin-left: 5%;
 
 }
-.factura{
+#acept{
+	width: 100%;
+	margin: auto;
+	padding: 0;
 	
 }

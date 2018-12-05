@@ -123,3 +123,8 @@ margin-right: -170px;
     width: 80%;
     
     }
+    @media (max-width:320px){
+     .caja{
+         display: none;
+     }
+    }
