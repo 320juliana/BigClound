@@ -1,0 +1,149 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.container{
+    width: 80%;
+    margin: auto;
+   
+}
+.background{
+    background-image: url(../img/bg-seccion1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+    background-position: center;
+}
+.background h1{
+    font-size: 70px;
+    color: #414141;
+    padding-top: 10%;  
+}
+.background p{
+    font-size: 30px;
+    padding-bottom: 2%;
+    color:#505050;
+}
+.background a{
+    background-color: crimson;
+    text-decoration: none;
+    color: aliceblue;
+    padding: 10px;
+    font-size: 20px;
+    
+}
+.background a:nth-child(4){
+    margin-left: 10px;
+}
+.middle{
+    margin: 100px auto 100px;
+}
+.middle article img{
+    width: 100%;
+    display: inline-block;
+}
+.middle article{
+   display: inline-block;
+}
+article ul{
+    clear: both;
+    font-size: 45px;
+    color: #414141;
+}
+article li{
+    font-size: 20px;
+    color: #414141;
+}
+ footer{
+    
+    color: aliceblue;
+    border-top: crimson  solid 10px;
+    background: black;
+    font-size: 150%;
+    height: 12vh;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+p a{
+    border-bottom:  dotted;
+    text-decoration: none;
+    color: aliceblue;
+}
+.conf{
+    position: fixed;
+    top: 50%;
+    left: 0;
+    
+}
+.social {
+    list-style: none;
+   padding: 10px;
+   
+   
+}
+.social  a{
+    color:white;
+    font-size: 15px;
+     margin-bottom: 10px;
+     text-decoration: none;
+     display: block;
+}
+.fa-facebook-f{
+	background-color: blue;
+	color:white;
+	padding: 16px 20px;
+	border-radius: 100% ;
+	
+
+}
+.fa-twitter{
+	color: white;
+	background-color: #1DA4FC;
+	border-radius: 50% 50%;
+	padding: 16px 16px;
+	
+	
+}
+.fa-pinterest-p{
+	color: white;
+	background-color: #F91244;
+	border-radius: 100%;
+	padding: 16px 17px;
+	
+
+}
+.fa-google-plus-g{
+	color: white;
+	background-color: #FA450D;
+	border-radius: 100%;
+	padding: 15px 13px;
+
+
+}
+.fa-envelope{
+	color: white;
+	background-color: gray;
+	border-radius: 100%;
+	padding: 16px 16px;
+	
+}
+ .social  a:hover  {
+    -webkit-transition: all 2s ease;
+    -moz-transition: all 2s ease;
+    -ms-transition: all 2s ease;
+    -o-transition: all 2s ease;
+    transition: all 2s ease;
+    padding: 15px 25px;
+}
+.seccion{
+    margin-bottom: 5%;
+    margin: 100px auto;
+}
+
+
+
+
+
+

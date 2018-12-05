@@ -1,0 +1,125 @@
+@import url(../css/index.css);
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #F2F4F4;
+}
+
+.font{
+    width: 100%;
+    background: white;
+}
+.banner span,.w{
+    display: inline-block;
+    font-size: 30px;
+}
+.banner span img{
+    width: 70%;
+}
+.nom{
+	text-align: right;
+    
+}
+.caja .cajas {
+	background: #646470;
+	text-align: right;
+	float: right;
+	margin-right: 2%;
+
+}
+.caja .cajas .numero1{
+	
+	float: left;
+	font-size: 100px;
+	color:#23E404;
+	margin: 0px 5px 0px 15px;
+}
+.caja .cajas .numero2{
+	
+	float: left;
+	font-size: 100px;
+	color:#DA6E4A;
+	margin: 0px 5px 0px 15px;
+}
+.caja .cajas .numero3{
+	
+	float: left;
+	font-size: 100px;
+	color:#18BEDD;
+	margin: 0px 5px 0px 15px;
+}
+.caja .cajas .line{
+	border-left: .5px solid white;
+	float: left;
+	margin: 15px 10px 0px 0px;
+    font-size: 75px;
+    
+}
+.oo{
+	color: white;
+	display: inline;
+	font-size: 30px;
+	margin: 30px 5px 5px 10px;
+}
+
+.gra{
+	color: white;
+	display: inline;
+	font-size: 30px;
+	margin: 30px 5px 5px 5px;
+}
+.nom1{
+	margin: 0px 600px 10px 0px;
+}
+.nom1 .p,.e{
+    margin: 0px 240px 0px 0px;
+    display: inline-block;
+    font-size: 35px;
+}
+table {
+    width: 80%;
+  margin : 0  15%;
+  font-size: 25px;
+  margin-bottom: 3%;
+  
+}
+table tr{
+    width: 50%;
+   
+}
+table tr td{
+	width: 10%;
+    height: 7vh;
+    border-bottom: black solid 1px;
+}
+.cont{
+    width: 60%;
+
+}
+.call{
+    width: 100%;
+    height: 5vh;
+    margin: 0 70%;
+}
+.call a{
+    padding: 15px 20px;
+    background: crimson;
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+    
+}
+.nom1 {
+color: crimson;
+margin-right: -170px; 
+
+}
+.nom {
+    color: crimson;
+    margin: auto;
+    width: 80%;
+    
+    }

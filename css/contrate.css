@@ -1,0 +1,89 @@
+@import url(../css/index.css);
+*{
+    margin: 0;
+    padding: 0;
+}
+.tit1, .tit2{
+	color: red ;
+}
+
+
+.cont3{
+	 background: #E4E6EC ;
+ }
+ .factura li{
+ 	list-style: none;
+ 	display: inline;
+ }
+ h5{
+ 	color: #A22326;
+ }
+.uy{
+	display: inline;
+}
+
+.oli{
+	margin-left: 1%;
+	text-decoration: none;
+	display: block;
+	background:#CE405E;
+	color: white;
+	width: 200px;
+	text-align:center;
+	font-size: 30px;
+	margin-bottom: 2%;
+	
+
+}
+
+fieldset{
+	border: 2px solid red;
+	font-size: 35px;
+
+}
+.titulo a {
+	border-bottom: dotted;
+	text-decoration: none;
+	font-size: 35px;
+	color: gray;
+}
+p, .tit1, .tit2 {
+	font-size: 35px;
+}
+h4{
+	display: inline-block;
+	color: gray;
+	font-size: 20px;
+}
+.titulo{
+	font-size: 70px;
+}
+input{
+	padding: 10px;
+	margin: 0 ;
+	width: 60%;
+	margin-bottom: 3%;
+}
+option{
+	font-size: 30px;
+}
+
+
+
+img:hover{
+-moz-transform: scale(3) translateX(5px) translateY(5px);
+-webkit-transform: scale(3) translateX(5px) translateY(5px);
+-o-transform: scale(3) translateX(5px) translateY(5px);
+-ms-transform: scale(3) translateX(5px) translateY(5px);
+transform: scale(.5) translateX(5px) translateY(5px);
+
+
+}
+.factura li{
+	display: inline-block;
+	margin-left: 5%;
+
+}
+.factura{
+	
+}
